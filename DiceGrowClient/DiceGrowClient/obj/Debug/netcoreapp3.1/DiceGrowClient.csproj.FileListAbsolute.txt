@@ -1,0 +1,13 @@
+D:\CSProject\DiceGrowClient\DiceGrowClient\bin\Debug\netcoreapp3.1\DiceGrowClient.exe
+D:\CSProject\DiceGrowClient\DiceGrowClient\bin\Debug\netcoreapp3.1\DiceGrowClient.deps.json
+D:\CSProject\DiceGrowClient\DiceGrowClient\bin\Debug\netcoreapp3.1\DiceGrowClient.runtimeconfig.json
+D:\CSProject\DiceGrowClient\DiceGrowClient\bin\Debug\netcoreapp3.1\DiceGrowClient.runtimeconfig.dev.json
+D:\CSProject\DiceGrowClient\DiceGrowClient\bin\Debug\netcoreapp3.1\DiceGrowClient.dll
+D:\CSProject\DiceGrowClient\DiceGrowClient\bin\Debug\netcoreapp3.1\DiceGrowClient.pdb
+D:\CSProject\DiceGrowClient\DiceGrowClient\obj\Debug\netcoreapp3.1\DiceGrowClient.csprojAssemblyReference.cache
+D:\CSProject\DiceGrowClient\DiceGrowClient\obj\Debug\netcoreapp3.1\DiceGrowClient.AssemblyInfoInputs.cache
+D:\CSProject\DiceGrowClient\DiceGrowClient\obj\Debug\netcoreapp3.1\DiceGrowClient.AssemblyInfo.cs
+D:\CSProject\DiceGrowClient\DiceGrowClient\obj\Debug\netcoreapp3.1\DiceGrowClient.csproj.CoreCompileInputs.cache
+D:\CSProject\DiceGrowClient\DiceGrowClient\obj\Debug\netcoreapp3.1\DiceGrowClient.dll
+D:\CSProject\DiceGrowClient\DiceGrowClient\obj\Debug\netcoreapp3.1\DiceGrowClient.pdb
+D:\CSProject\DiceGrowClient\DiceGrowClient\obj\Debug\netcoreapp3.1\DiceGrowClient.genruntimeconfig.cache

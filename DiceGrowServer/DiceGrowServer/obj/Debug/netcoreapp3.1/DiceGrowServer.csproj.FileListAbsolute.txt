@@ -1,0 +1,13 @@
+D:\CSProject\DiceGrowServer\DiceGrowServer\bin\Debug\netcoreapp3.1\DiceGrowServer.exe
+D:\CSProject\DiceGrowServer\DiceGrowServer\bin\Debug\netcoreapp3.1\DiceGrowServer.deps.json
+D:\CSProject\DiceGrowServer\DiceGrowServer\bin\Debug\netcoreapp3.1\DiceGrowServer.runtimeconfig.json
+D:\CSProject\DiceGrowServer\DiceGrowServer\bin\Debug\netcoreapp3.1\DiceGrowServer.runtimeconfig.dev.json
+D:\CSProject\DiceGrowServer\DiceGrowServer\bin\Debug\netcoreapp3.1\DiceGrowServer.dll
+D:\CSProject\DiceGrowServer\DiceGrowServer\bin\Debug\netcoreapp3.1\DiceGrowServer.pdb
+D:\CSProject\DiceGrowServer\DiceGrowServer\obj\Debug\netcoreapp3.1\DiceGrowServer.csprojAssemblyReference.cache
+D:\CSProject\DiceGrowServer\DiceGrowServer\obj\Debug\netcoreapp3.1\DiceGrowServer.AssemblyInfoInputs.cache
+D:\CSProject\DiceGrowServer\DiceGrowServer\obj\Debug\netcoreapp3.1\DiceGrowServer.AssemblyInfo.cs
+D:\CSProject\DiceGrowServer\DiceGrowServer\obj\Debug\netcoreapp3.1\DiceGrowServer.csproj.CoreCompileInputs.cache
+D:\CSProject\DiceGrowServer\DiceGrowServer\obj\Debug\netcoreapp3.1\DiceGrowServer.dll
+D:\CSProject\DiceGrowServer\DiceGrowServer\obj\Debug\netcoreapp3.1\DiceGrowServer.pdb
+D:\CSProject\DiceGrowServer\DiceGrowServer\obj\Debug\netcoreapp3.1\DiceGrowServer.genruntimeconfig.cache
